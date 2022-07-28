@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Uchen&display=swap');
+body{
+  font-family: 'Uchen', serif;
+}
+.navbar{
+  height: 50px;
+}
+.mt-2{
+font-weight:2000rem;
+}
+.bg-primary{
+    font-weight:600;
+    font-size:20px;
+    height:40px;
+    color:#FFFFFF
+}
+.xr{
+    text-align: center;
+    padding-top: 70px;
+}
+.primary{
+    color: rgba(40, 155, 222, 1);
+}
+.card{
+  max-width: 540px;
+}
+.war{
+    margin-top: 80px;
+    margin-left: 585px;
+    background-color: rgba(40, 155, 222, 1);
+    color: aliceblue;
+    height: 50px;
+}
+#mice{
+    margin-left: 200px;
+    display: flex;
+}
+.rose {
+    margin-top: 150px;
+    background-color: rgba(40, 155, 222, 1);
+    color: aliceblue;
+    height: 50px;
+    display: inline;
+}
+.muhu{
+  background-color:rgba(40, 155, 222, 1);
+  color: beige;
+  width: 1320px;
+  height: 300px;
+  left: 140px;
+  align-items:center;
+  justify-content: center;
+  margin-top: 5rem;
+  padding-left: 6rem;
+}
+.color{
+  color:rgba(40, 155, 222, 1);
+}
+.info{
+  margin-top: 10px;
+    margin-left: 585px;
+    background-color: rgba(40, 155, 222, 1);
+    color: aliceblue;
+    height: 40px;
+}
+.sania{
+  justify-content: center;
+  align-items: center;
+  padding-left: 320px;
+}
+.align{
+  padding-top: 5rem;
+  padding-left: 25rem;
+}
+#sh{
+  padding-left:7rem;
+  padding-top: 3rem;
+  padding-bottom: 5rem;
+}
+.nice{
+  color: white;
+  width: 1000px;
+  height: 360px;
+  padding-left: 35rem;
+  padding-top: 8rem;
+}
